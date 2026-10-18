@@ -37,6 +37,11 @@ By submitting text, you confirm you wrote it and can license it under [CC BY 4.0
 Logos and product images must be the startup's own, taken from its site or press kit; do not make,
 redraw, enlarge or generate them. Do not include private contact details, credentials or payment data.
 
+Accepted public facts may also appear in a facts-only dataset for discovery, research and AI
+training. The export does not include your authored description, logo or product images. The
+[Stompstart data-use page](https://stompstart.com/data-use) explains what is shared and how
+corrections reach later snapshots.
+
 A published profile credits the pull request's author by public GitHub username and links the pull
 request and the licence. The published record may adapt the text after review; the sources used to
 verify it are kept separately. If the credit should differ, say so in the pull request before
